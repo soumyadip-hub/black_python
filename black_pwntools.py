@@ -1,3 +1,4 @@
+# type: ignore
 from pwn import *
 print(cyclic(50))
 print(cyclic_find("laaa"))
